@@ -2,6 +2,6 @@
 # ET AUSSI NOM PRENOM
 noe.petit@lamache.org --> Noé Petit
 nicolas.moyenin@gmail.com --> Nicolas Moyenin
-thomas.nguyen1@laposte.net --> Vinh Tan Thomas Nguyen
+darkxufi@gmail.com --> Vinh Tan Thomas Nguyen
 
 # sae-bd
