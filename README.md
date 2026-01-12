@@ -1,5 +1,6 @@
 # METTEZ VOS EMAIL POUR QUE JE VOUS INVITE
 # ET AUSSI NOM PRENOM
-noe.petit@lamache.org
+noe.petit@lamache.org --> Noé Petit
+nicolas.moyenin@laposte.net --> Nicolas Moyenin
 
 # sae-bd
