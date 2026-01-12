@@ -1,4 +1,5 @@
 # METTEZ VOS EMAIL POUR QUE JE VOUS INVITE
+# ET AUSSI NOM PRENOM
 noe.petit@lamache.org
 
 # sae-bd
