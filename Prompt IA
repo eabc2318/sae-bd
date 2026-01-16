@@ -2,6 +2,18 @@ Voici les prompts utilisés pour l'IA :
 
 * Gemini :
  - Donne nous des logiciels pour générer des tableurs Excel pour des bases de données
+
+
+- D'après les consignes dans le documents texts joint, je veux que tu m'aides à générer des noms pour quelque relation.
+  je voudrais que tu commence a me générer des types d'entretient pour des machines qui serait utile dans le cadre de l'exercice.
+  je veux que cette liste soit sous la forme de "item1, item2, item3, ..." qui soit sans guillemet et caractère spécial, je ne veux pas de description de a quoi sert cette entretient.
+  Pour fini tu m'indiquera pour chaque génération de listes le nombre d'item présent.
+-->liste des choses généré : nom_machine, modèle_machine, intitulé_repas, nom_plat, nom_aliment, nom_sauce, types_aliments, nom_croyance, nom_croyance, commentaire, raison_social, siret.
+(PS : toute date, nom, prénom, code, id, durée, note, temperature, adresse, email, telephone sont généré par le site mockaroo)
+
+
+
+
   
   
 * ChatGPT : 
